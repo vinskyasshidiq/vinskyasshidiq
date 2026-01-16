@@ -13,6 +13,8 @@ I have a passion for continuous learning and collaborating with others to create
 *Get in Touch*.\
 If you're interested in collaborating or have any questions, feel free to reach out to me via email at [vinsky_205@yahoo.co.id](https://vinsky_205@yahoo.co.id/) I'm always open to discussing exciting projects and new opportunities. Don't forget to follow me on  [LinkedIn](https://www.linkedin.com/in/vinskyasshidiq).
  
+
+
 <p align="left">
 <a href="https://github.com/vinskyasshidiq">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinskyasshidiq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
